@@ -1,0 +1,2 @@
+<h1>PHP User System</h1>
+<p>It's a project where I do user login and registration. If it is successful when logging in, it is set as a cookie and can go to index.php. When you enter index.php, it takes you to the login page if you are not logged in. It encrypts the password with the SHA256 encryption method when registering and encrypts the password when logging in.</p>
